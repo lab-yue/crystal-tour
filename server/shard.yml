@@ -5,7 +5,7 @@ authors:
   - rainy-me <github@rainy.me>
 
 targets:
-  linker.moe:
-    main: src/linker.moe.cr
+  server:
+    main: src/main.cr
 
 crystal: 0.30.1
