@@ -1,2 +1,2 @@
 require "spec"
-require "../src/linker.moe"
+require "../server/main"
