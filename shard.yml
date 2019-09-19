@@ -1,0 +1,11 @@
+name: linker.moe
+version: 0.1.0
+
+authors:
+  - rainy-me <github@rainy.me>
+
+targets:
+  linker.moe:
+    main: src/linker.moe.cr
+
+crystal: 0.30.1
